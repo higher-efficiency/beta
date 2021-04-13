@@ -1,0 +1,134 @@
+/*********** header ***********/
+.header-container{
+  width: 100%;
+}
+
+.navbar-box{
+  border: 1px solid;
+}
+.navbar-container{
+  /* border: 1px solid red; */
+  padding: 0 25px;
+}
+.masthead{
+  padding: 26px;
+  /* border: 1px solid red; */
+}
+/*********** body ***********/
+
+.enter-room{
+  padding: 100px 0 80px 0;
+  text-align: center;
+}
+.hr {
+padding: 0 5rem;
+border
+}
+
+.rules-and-faq{
+  padding: 2rem;
+  background-color: #F6F6F6;
+}
+
+.faq-body{
+  padding-left: 1rem;
+}
+.faq-text{
+  margin: 0;
+}
+.faq-text-end{
+  margin-bottom: 6px;
+}
+/*********** footer ***********/
+.footer{
+  border: 1px solid;
+}
+
+.contact{
+  color: black;
+}
+
+
+/********************* page2 ********************/
+.body-ralral{
+  padding: 100px;
+}
+
+th{
+  font-weight: normal;
+  text-align: center;
+}
+
+td{
+  text-align: center;
+}
+
+tr{
+  padding: 20px 0;
+}
+
+.day-0{
+  color: #999999;
+}
+
+.day-2{
+  color: #999999;
+}
+
+.day-1-11{
+  font-weight: bold;
+  /* color: red; */
+}
+
+.rounded-pill{
+  /* color: black; */
+  font-weight: normal;
+}
+
+.button-add-box{
+  text-align: center;
+}
+
+.profile-add-button{
+  color: black;
+  text-decoration: none;
+}
+.profile-add-button:hover{
+  color: #FF4D00;
+}
+
+.profile-element{
+  color: black;
+  text-decoration: none;
+  padding-top: 2rem;
+  font-size: 1.3rem;
+}
+
+/* .shadow-box{
+  box-shadow: 10px 5px 5px black;
+} */
+
+.card-text{
+  margin-bottom: 0.5rem;
+}
+
+.card-header{
+  color: black;
+  /* background-color: #f8f9fa; */
+  /* background-color: #fff; */
+}
+
+.card-text-footer{
+  color: #777777;
+  font-size: 0.9rem;
+  text-align: right;
+  margin-bottom: .5rem;
+}
+
+.col-md-4{
+  max-width: 50%;
+}
+
+.card-body{
+  padding: 0.25rem 1rem;
+}
